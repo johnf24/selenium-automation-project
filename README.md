@@ -1,6 +1,6 @@
 ## Selenium Automation Project
 
-This is a Automation project that fills out, submits and validates a blog using the Selenium testing framework with RSpec. This test was written in Ruby.
+This is a Automation project that fills out, submits and validates a blog form using the Selenium testing framework with RSpec. This test was written in Ruby.
 
 ### Software Requirements
 
