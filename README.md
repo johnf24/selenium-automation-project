@@ -1,13 +1,15 @@
-## Selenium Automation Project
+## Selenium Automation Projects
 
-This is a Automation project that fills out, submits and validates a blog form using the Selenium testing framework with RSpec. This test was written in Ruby.
+1. Automation project that fills out, submits and validates a blog form using the Selenium testing framework with RSpec. This test was written in Ruby.
+
+2. Automation project that checks the title of a website using the Selenium testing framework with TestNG. This test was written in Java.
 
 ### Software Requirements
 
-Selenium Webdriver, Ruby 2.6.1, Chrome Webdriver
+Selenium Webdriver, Ruby 2.6.1, Java SE 12, Chrome Webdriver
 
 ### Installation Instructions
 
 1. Clone selenium-automation-project repository</br>
-2. Install Ruby, Chrome Webdriver and the Selenium Webdriver binding for Ruby</br>
-3. Run selenium-automation.rb file</br>
+2. Install Ruby, Java, Chrome Webdriver and the Selenium Webdriver bindings for Ruby and Java</br>
+3. Run selenium-automation-ruby.rb and selenium-automation-java.java files</br>
