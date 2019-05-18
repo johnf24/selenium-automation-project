@@ -4,6 +4,8 @@
 
 2. Automation project that checks the title of a website using the Selenium testing framework with TestNG. This test was written in Java.
 
+3. Automation project that navigates to a website, fills out a form and downloads a file using the Selenium testing framework with TestNG. This test was written in Java.
+
 ### Software Requirements
 
 Selenium Webdriver, Ruby 2.6.1, Java SE 12, Chrome Webdriver
